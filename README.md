@@ -13,7 +13,7 @@ Please make forks with improvements.
 - No wall in first level
 - No collisions with ballons in first level
 - Wall not falling in 5x5 level
-- Black screen when death. Can't re-play the death without restarting the game.
+- Black screen when death. Can't re-play without restarting the game.
 - Every light don't kill us in Level 2.
 - Map is not working on that level.
 - OPTIMISE THE GAME !!!
