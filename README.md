@@ -3,6 +3,7 @@ Bewilder House for the Playstation Vita.
 Please make forks with improvements.
 
 # To do
+- Make the map work ✅
 - Fix eyes not seeing you.
 - Fix crashes when changing of levels.
 - Make a script to make platform rotate the player in level 5x5.
@@ -17,3 +18,7 @@ Please make forks with improvements.
 - Every light don't kill us in Level 2.
 - Map is not working on that level.
 - OPTIMISE THE GAME !!!
+
+# New features:
+- Subtitles at intro and outro.
+- Touchscreen (bad) support ✅
