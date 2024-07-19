@@ -2,6 +2,8 @@
 Bewilder House for the Playstation Vita.
 Please make forks with improvements.
 
+The game will be Open Source at the end of the development. So please be patient !
+
 # To do
 - Make the map work ✅
 - Fix eyes not seeing you.
