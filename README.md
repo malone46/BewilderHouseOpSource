@@ -7,7 +7,7 @@ The game will be Open Source at the end of the development. So please be patient
 # To do
 - Make the map work ✅
 - Fix eyes not seeing you. ✅
-- Fix crashes when changing of levels. ✅ (?)
+- Fix crashes when changing of levels. (WIP)
 - Make a script to make platform rotate the player in level 5x5. (Don't know how to do)
 - Fix pic0 in LiveArea ✅
 - Fix first level not making the music 3D (How can I do that ?!)
