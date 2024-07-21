@@ -16,7 +16,7 @@ The game will be Open Source at the end of the development. So please be patient
 - No collisions with ballons in first level ✅
 - Wall not falling in 5x5 level ✅
 - Black screen when death. Can't re-play without restarting the game. ✅
-- Map is not working on that level. (Help)
+- Map is not working on that level. ✅ (Semi)
 - OPTIMISE THE GAME !!! ✅ (Mostly)
 
 # New features:
