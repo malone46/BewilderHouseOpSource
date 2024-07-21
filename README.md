@@ -10,16 +10,14 @@ The game will be Open Source at the end of the development. So please be patient
 - Fix crashes when changing of levels. ✅
 - Make a script to make platform rotate the player in level 5x5. (Don't know how to do)
 - Fix pic0 in LiveArea ✅
-- Make the sensitivity a little superior
+- Make the sensitivity a little superior ✅
 - Made a script for the trampo in the challenge level to jump on the trampo. ✅
 - No wall in first level ✅
 - No collisions with ballons in first level ✅
 - Wall not falling in 5x5 level ✅
 - Black screen when death. Can't re-play without restarting the game. ✅
-- Every light don't kill us in Level 2. ✅ (This level is shit)
 - Map is not working on that level. (Help)
-- OPTIMISE THE GAME !!!
+- OPTIMISE THE GAME !!! ✅ (Mostly)
 
 # New features:
-- Subtitles at intro and outro.
 - Touchscreen (bad) support ✅
