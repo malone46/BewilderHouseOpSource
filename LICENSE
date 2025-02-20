@@ -1,3 +1,4 @@
+FR:
 Ce répertoire propose une archive au format `vpk` du jeu Bewilder House, afin de le rendre jouable sur console PlayStation Vita.
 
 Bewilder House est un jeu vidéo protégé par le droit français, tous droits réservés.
@@ -10,3 +11,17 @@ malone46 (propriétaire du compte GitHub malone46) distribue l'archive `vpk` du 
 La Minoteam se réserve le droit de révoquer à tout moment la permission accordée à malone46 de distribuer l'archive `vpk` et d'exiger son retrait de tout répertoire public et toute plateforme permettant de télécharger l'archive.
 
 Toute copie du jeu ou de certaines de ses composantes, modifiées ou non, créées à partir d'un fork du présent répertoire ou par tout autre moyen, ne peuvent être utilisées sans l'accord de la Minoteam.
+
+EN:
+This repository provides a vpk archive of the game Bewilder House, making it playable on the PlayStation Vita console.
+
+Bewilder House is a video game protected under French law, with all rights reserved.
+
+malone46 (owner of the GitHub account malone46) is distributing the vpk archive of Bewilder House with permission from Minoteam (Marine Dunstetter, Alexis Sarremejane, Robin Vallery, Julien Gratz, Valentin Heutte), under the following conditions:
+- The distributed vpk archive is available in a public Open Source repository.
+- The game’s content has not undergone any substantial modifications. Any changes made are solely for compatibility with the PS Vita.
+- Neither Bewilder House on PS Vita nor any of its components may be used for commercial profit.
+
+Minoteam reserves the right to revoke malone46’s permission to distribute the vpk archive at any time and to request its removal from any public repository or platform that allows the archive to be downloaded.
+
+Any copy of the game or any of its components, whether modified or not, created from a fork of this repository or by any other means, may not be used without Minoteam’s approval.
